@@ -1,0 +1,7 @@
+### System / Windows
+Thumbs.db
+
+
+### Local
+.local
+

@@ -1,0 +1,9 @@
+{
+  ".gitignore": {
+    "fileName": ".gitignore",
+    "filePath": "./*.txt"
+  },
+  "ab-pkg.js": {
+    "fileName": "ab-pkg.js"
+  }
+}
